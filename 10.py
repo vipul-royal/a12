@@ -1,0 +1,5 @@
+Tuple=(1,2,3,4,5,6,7,8)
+print(Tuple)
+print(Tuple[:-2])
+print(Tuple[1:6])
+print(Tuple[-6:-2])
